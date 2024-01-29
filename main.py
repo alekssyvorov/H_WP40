@@ -64,5 +64,5 @@ while True:
                 count_zero += 1
         print(count_zero)
 
-
+print()
 
